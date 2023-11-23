@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Taj Falaknuma Palace",
+        "image": "../img/anotherRoom.jpg",
+        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-falaknuma-palace-hyderabad/"
+    },
+    {
+        "name": "ITC Kohenur",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.itchotels.com/in/en/itckohenur-hyderabad"
+    },
+    {
+        "name": "ITC Kakatia",
+        "image": "../img/grandRoom.jpg",
+        "detailsLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLrOyIobr9AhVMDCsKHfODBZcYABAEGgJzZg&ohost=www.google.com&cid=CAESbeD2XsGroXUUnj4mIlnOhnyU8lVaOHO0Fw7xE1VzUy4_Tty9WxjINUbhYnN596SmpWSAFsCL7zrHCYh71CNHcwrXmyasxOMAHMuPw-EhmQsZVHZcCHKT2kLj_zU87-yhJJEq84YF53ufSTEHJrg&sig=AOD64_1D1PUufnfAmgx8aae3UR2i2oHCLg&q&adurl&ved=2ahUKEwii3uKIobr9AhWL4jgGHQZnDO8Q0Qx6BAgDEAM"
+    },
+    {
+        "name": "Taj Banjara",
+        "image": "../img/room.jpg",
+        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-banjara/"
+    },
+    {
+        "name": "Le Meridien",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.marriott.com/en-us/hotels/hydmd-le-meridien-hyderabad/overview/"
+    },
+    {
+        "name": "Mariott Courtyard",
+        "image": "../img/familyRoom.jpg",
+        "detailsLink": "https://www.marriott.com/en-us/hotels/hydcy-courtyard-hyderabad/overview/"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "The Oberoi RajVillas",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjCrqOUo7r9AhXgmmYCHZX4C7EYABAEGgJzbQ&ohost=www.google.com&cid=CAESbeD2uiO68iN00lLoPxmUD1gJGE72tNo6J7KNdhyvGfZ4GP4uyk3eULyGNjvmvftZLeV0H-cXLo-TDfQFQ9Il_naPLC_1DeGhTaRmJ1IenB9sKIBBtpev3F1ZkOpnobGkmJGP3dc2bAu1fV3IWig&sig=AOD64_3loMuB6OqiQH0Z6CjfNB8GayqaEg&q&adurl&ved=2ahUKEwj_qpqUo7r9AhXn4TgGHbw3D_0Q0Qx6BAgEEAM"
+    },
+    {
+        "name": "The Raj Palace",
+        "image": "../img/familyRoom.jpg",
+        "detailsLink": "https://www.rajpalace.com/"
+    },
+    {
+        "name": "Rambagh Palace",
+        "image": "../img/room.jpg",
+        "detailsLink": "https://www.tajhotels.com/en-in/taj/rambagh-palace-jaipur/"
+    },
+    {
+        "name": "Raj Mahal Palace",
+        "image": "../img/otherRoom.jpg",
+        "detailsLink": "https://www.raashotels.com/rajmahal/"
+    },
+    {
+        "name": "Umaid Bhawan",
+        "image": "../img/otherRoom.jpg",
+        "detailsLink": "https://www.umaidbhawan.com/"
+    },
+    {
+        "name": "The Fern An Ecotel",
+        "image": "../img/grandRoom.jpg",
+        "detailsLink": "https://www.fernhotels.com/the-fern-jaipur"
+    },
+    {
+        "name": "The Fern Residency",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.fernhotels.com/the-fern-residency-jaipur"
+    },
+    {
+        "name": "Sheraton's Four Points",
+        "image": "../img/room.jpg",
+        "detailsLink": "https://www.marriott.com/en-us/hotels/jaifp-four-points-by-sheraton-jaipur-city-square/overview/"
+    }
+]

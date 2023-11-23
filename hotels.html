@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>City Hotels</title>
+
+    <!-- Google/Custom font -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic'
+        rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic'
+        rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Font awesome css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-precomposed.png">
+    <link rel="shortcut icon" type="image/png" href="img/favi-con.png" />
+</head>
+
+<body>
+    <header class="header_area" style="background-color: white;">
+        <div class="header_bottom">
+            <div class="container">
+                <div class="main_header">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-2">
+                            <div class="logo">
+                                <a href="./index.html"><img src="./images/aK (1).png" alt="Site Logo" width="104"
+                                        height="104"></a>
+                            </div>
+                        </div>
+                        <div class="col-md-9 col-sm-10 nav_area">
+                            <nav class="main_menu">
+                                <div class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="./index.html">Home</a></li>
+                                        <li><a href="./accommodation.html">Accommodation</a></li>
+                                        <li><a href="./AboutUs.html">About Us</a></li>
+                                        <li><a href="./ContactInfoAndTOS.html">ToS</a></li>
+                                        <li><a href="./Location&ContactUs.html">Contact Us</a></li>
+                                        <li><a href="./Reservation.html">Reservation</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container" style="background-color: white;padding:0;">
+        <section class="breadcrumb_area">
+            <div class="container">
+                <div class="back_nav">
+                    <div class="col-sm-5">
+                        <h2>accommodation</h2>
+                    </div>
+                    <div class="col-sm-7">
+                        <ul class="text_a_r" style="text-align: right;">
+                            <li><a href="../index.html">Home</a></li>
+                            <li>Accommodation</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="roomArea">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="shead">
+                            <h1>Welcome!</h1>
+                        </div>
+                    </div>
+                    <div id="hotels-container" class="all_rooms">
+                        <!-- Hotels will be dynamically rendered here -->
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="view_all">
+                                <a class="rm_btn btn-primary" role="button" href="../accommodation.html">Go Back</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+    </div>
+
+    <footer class="footer_area">
+        <div class="footer_bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <p>© 2023 aK auberge. All rights reserved</p>
+                    </div>
+                    <div class="col-sm-8">
+                        <nav class="footer_menu">
+                            <ul>
+                                <li><a href="../index.html">Home</a></li>
+                                <li><a href="../accommodation.html">Accommodation</a></li>
+                                <li><a href="../AboutUs.html">AboutUs</a></li>
+                                <li><a href="../ContactInfoAndTOS.html">ToS</a></li>
+                                <li><a href="../Location&ContactUs.html">ContactUs</a></li>
+                                <li><a href="../Reservation.html">Reservation</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Function to update hotel content based on selected city
+            function updateHotels(city) {
+                const hotelsContainer = document.getElementById("hotels-container");
+
+                // Clear existing content
+                hotelsContainer.innerHTML = "";
+
+                // Fetch hotel data from city-specific JSON file
+                fetch(`./hotels/${city}.json`)
+                    .then(response => response.json())
+                    .then(hotels => {
+                        // Loop through hotels and append to container
+                        hotels.forEach(hotel => {
+                            const hotelElement = document.createElement("div");
+                            hotelElement.className = "col-md-4 col-sm-6";
+                            hotelElement.innerHTML = `
+                                <div class="single_room_item">
+                                    <div class="room_photo">
+                                        <img src="${hotel.image}" alt="" width="350" height="250">
+                                        <div class="room-title">
+                                            <h3>${hotel.name}</h3>
+                                        </div>
+                                        <div class="photo_cap">
+                                            <a href="${hotel.detailsLink}" class="lightbox" data-gall="gall-room"><i
+                                                    class="glyphicon glyphicon-search"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="ttl-link">
+                                        <a href="${hotel.detailsLink}">Check Details <img src="img/icon_calendar.png"
+                                                alt=""></a>
+                                    </div>
+                                </div>
+                            `;
+                            hotelsContainer.appendChild(hotelElement);
+                        });
+                    })
+                    .catch(error => console.error(`Error fetching ${city}.json:`, error));
+            }
+
+            // Extract city from URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const city = urlParams.get('city');
+
+            // Update hotels for the specified city
+            if (city) {
+                updateHotels(city);
+            } else {
+                console.error("City not specified in the URL");
+            }
+        });
+    </script>
+</body>
+
+</html>

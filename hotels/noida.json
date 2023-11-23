@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Hotel Park Ascent",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.parkascenthotels.com/"
+    },
+    {
+        "name": "Fortune",
+        "image": "../img/banner.jpg",
+        "detailsLink": "https://www.itchotels.com/in/en/fortunesector27-noida"
+    },
+    {
+        "name": "The Gaurs Sarovar Portico",
+        "image": "../img/grandRoom.jpg",
+        "detailsLink": "https://www.sarovarhotels.com/the-gaurs-sarovar-portico/"
+    },
+    {
+        "name": "Radisson's Park Inn",
+        "image": "../img/anotherRoom.jpg",
+        "detailsLink": "https://www.radissonhotels.com/en-us/hotels/radisson-noida"
+    },
+    {
+        "name": "Jaypee Greens",
+        "image": "../img/grandRoom.jpg",
+        "detailsLink": "https://www.jaypeehotels.com/hotel/jaypee-greens-golf-spa-resort-greater-noida"
+    },
+    {
+        "name": "Sandal Suites",
+        "image": "../img/familyRoom.jpg",
+        "detailsLink": "https://www.lemontreehotels.com/lemon-tree-hotel/noida/sandal-suites.aspx"
+    },
+    {
+        "name": "Crowne Plaza",
+        "image": "../img/familyRoom.jpg",
+        "detailsLink": "https://www.ihg.com/crowneplaza/hotels/us/en/delhi/delgn/hoteldetail"
+    }
+]

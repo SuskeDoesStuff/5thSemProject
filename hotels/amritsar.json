@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Hotel Lemon Tree Amritsar",
+      "image": "./img/banner.jpg",
+      "detailsLink": "https://www.reservations.com/Hotel/lemon-tree-hotel-amritsar-amritsar-in"
+    },
+    {
+      "name": "Regenta Central Amritsar",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.royalorchidhotels.com/regenta-central-amritsar/overview"
+    },
+    {
+      "name": "Hyatt Regency Amritsar",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.hyatt.com/en-US/hotel/india/hyatt-regency-amritsar/atqhy?&src=pfxswain_sem_pfx_search_google_india_rooms_sub.br_amritsar_eng_pfx_search_google_india_rooms_sub.br_name_atqhy_eng_hotel%20hyatt%20regency%20amritsar&mckv=s-dc_pcrid_495368669003_mtid_529dkt13792"
+    },
+    {
+      "name": "Taj Swarna",
+      "image": "./img/otherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-amritsar/"
+    },
+    {
+      "name": "Hotel Marriott Fairfield Amritsar",
+      "image": "./img/banner.jpg",
+      "detailsLink": "https://www.marriott.com/en-us/hotels/atqfi-fairfield-by-marriott-amritsar/overview/"
+    },
+    {
+      "name": "Wyndham Ramada",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.wyndhamhotels.com/ramada/amritsar-india/ramada-amritsar/overview"
+    }
+  ]
+  
