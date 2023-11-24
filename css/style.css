@@ -495,7 +495,7 @@ Contact Page
 
 
 .accordion {
-    background-color: #eee;
+    background-color: #ee5858;
     color: #444;
     cursor: pointer;
     padding: 12px; /* Reduced padding */
@@ -512,7 +512,7 @@ Contact Page
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #f44041;
 }
 
 /* Style the accordion panel. Note: hidden by default */
