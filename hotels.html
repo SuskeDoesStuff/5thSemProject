@@ -131,7 +131,8 @@
                 hotelsContainer.innerHTML = "";
                 welcomeContainer.innerHTML = "";
                 welcomeElement = document.createElement("h1");
-                welcomeElement.innerHTML = `Welcome to ${city}.css('textTransform', 'capitalize')!`;
+                capitalCity = city.toUpperCase();
+                welcomeElement.innerHTML = `Welcome to ${capitalCity}!`;
                 welcomeContainer.appendChild(welcomeElement)
                 
                 // Fetch hotel data from city-specific JSON file
