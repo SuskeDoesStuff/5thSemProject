@@ -518,7 +518,7 @@ Contact Page
 /* Style the accordion panel. Note: hidden by default */
 .panel {
     padding: 0 18px;
-    background-color: white;
+    background-color: #eee;
     width: 80%;
     display: none;
     overflow: hidden;
