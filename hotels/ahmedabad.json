@@ -1,39 +1,38 @@
 [
-    {
+  {
       "name": "Renaissance Hotel",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Renaissance Hotel Image"
-    },
-    {
+  },
+  {
       "name": "Novotel Ahmedabad",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Novotel Ahmedabad Image"
-    },
-    {
+  },
+  {
       "name": "Lemon Tree Hotel",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Lemon Tree Hotel Image"
-    },
-    {
+  },
+  {
       "name": "Fortune Park Hotel",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Fortune Park Hotel Image"
-    },
-    {
+  },
+  {
       "name": "Hyatt Regency",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Hyatt Regency Image"
-    },
-    {
+  },
+  {
       "name": "Cambay Grand Ahmedabad",
       "image": "./img/anotherRoom.jpg",
       "detailsLink": "#",
       "alt": "Cambay Grand Ahmedabad Image"
-    }
-  ]
-  
+  }
+]
