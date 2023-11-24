@@ -1,38 +1,39 @@
 [
-  {
-      "name": "Renaissance Hotel",
-      "image": "./hotel-images/renaissance-hotel.avif",
-      "detailsLink": "https://www.marriott.com/en-us/hotels/amdbr-renaissance-ahmedabad-hotel/overview/",
-      "alt": "Renaissance Hotel Image"
-  },
-  {
-      "name": "Novotel Ahmedabad",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
-      "alt": "Novotel Ahmedabad Image"
-  },
-  {
-      "name": "Lemon Tree Hotel",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
-      "alt": "Lemon Tree Hotel Image"
-  },
-  {
-      "name": "Fortune Park Hotel",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
-      "alt": "Fortune Park Hotel Image"
-  },
-  {
-      "name": "Hyatt Regency",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
-      "alt": "Hyatt Regency Image"
-  },
-  {
-      "name": "Cambay Grand Ahmedabad",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
-      "alt": "Cambay Grand Ahmedabad Image"
-  }
-]
+    {
+        "name": "Renaissance Hotel",
+        "image": "./hotel-images/renaissance-hotel.avif",
+        "detailsLink": "https://www.marriott.com/en-us/hotels/amdbr-renaissance-ahmedabad-hotel/overview/",
+        "alt": "Renaissance Hotel Image"
+    },
+    {
+        "name": "Novotel Ahmedabad",
+        "image": "./hotel-images/novotel-ahmedabad.jpg",
+        "detailsLink": "#",
+        "alt": "Novotel Ahmedabad Image"
+    },
+    {
+        "name": "Lemon Tree Hotel",
+        "image": "./hotel-images/lemon-tree-hotel.jpg",
+        "detailsLink": "#",
+        "alt": "Lemon Tree Hotel Image"
+    },
+    {
+        "name": "Fortune Park Hotel",
+        "image": "./hotel-images/fortune-park-hotel.jpg",
+        "detailsLink": "#",
+        "alt": "Fortune Park Hotel Image"
+    },
+    {
+        "name": "Hyatt Regency",
+        "image": "./hotel-images/hyatt-regency.jpg",
+        "detailsLink": "#",
+        "alt": "Hyatt Regency Image"
+    },
+    {
+        "name": "Cambay Grand Ahmedabad",
+        "image": "./hotel-images/cambay-grand-ahmedabad.jpg",
+        "detailsLink": "#",
+        "alt": "Cambay Grand Ahmedabad Image"
+    }
+  ]
+  

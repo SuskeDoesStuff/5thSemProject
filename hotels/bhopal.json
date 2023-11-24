@@ -1,27 +1,27 @@
 [
     {
         "name": "Taj Lakefront",
-        "image": "../img/familyRoom.jpg",
+        "image": "./hotel-images/taj-lakefront.jpg",
         "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-lakefront-bhopal/"
     },
     {
         "name": "Marriott Courtyard",
-        "image": "../img/banner.jpg",
+        "image": "./hotel-images/marriott-courtyard.jpg",
         "detailsLink": "https://www.marriott.com/en-us/hotels/bhocy-courtyard-bhopal/overview/"
     },
     {
         "name": "Sayaji Enrise",
-        "image": "../img/banner.jpg",
+        "image": "./hotel-images/sayaji-enrise.jpg",
         "detailsLink": "https://sayajihotels.com/our-hotels/enrise-bhopal/"
     },
     {
         "name": "Hotel Jehan Numa Palace",
-        "image": "../img/grandRoom.jpg",
+        "image": "./hotel-images/hotel-jehan-numa-palace.jpg",
         "detailsLink": "https://www.jehannuma.com/"
     },
     {
         "name": "Hotel Radisson",
-        "image": "../img/anotherRoom.jpg",
+        "image": "./hotel-images/hotel-radisson.jpg",
         "detailsLink": "https://www.radissonhotels.com/en-us/hotels/radisson-bhopal"
     }
 ]

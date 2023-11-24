@@ -1,37 +1,37 @@
 [
     {
         "name": "The Westin Pune",
-        "image": "../img/grandRoom.jpg",
+        "image": "./hotel-images/the-westin-pune.jpg",
         "detailsLink": "https://www.marriott.com/en-us/hotels/pnqwi-the-westin-pune-koregaon-park/overview/"
     },
     {
         "name": "Hotel Blue Diamond",
-        "image": "../img/familyRoom.jpg",
+        "image": "./hotel-images/hotel-blue-diamond.jpg",
         "detailsLink": "https://www.seleqtionshotels.com/en-in/blue-diamond-pune/"
     },
     {
         "name": "Conrad Pune",
-        "image": "../img/otherRoom.jpg",
+        "image": "./hotel-images/conrad-pune.jpg",
         "detailsLink": "https://www.conradpune.com/"
     },
     {
         "name": "The Ritz-Carlton",
-        "image": "../img/anotherRoom.jpg",
+        "image": "./hotel-images/the-ritz-carlton.jpg",
         "detailsLink": "https://www.ritzcarlton.com/en/hotels/india/pune"
     },
     {
         "name": "Hotel Hyatt Pune",
-        "image": "../img/room.jpg",
+        "image": "./hotel-images/hotel-hyatt-pune.jpg",
         "detailsLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi1uPWDt7r9AhXKCisKHQ-mCJAYABACGgJzZg&ohost=www.google.com&cid=CAESbeD22KfMvpC657i3I5XhSDoF9fR7uR5y8I0j5i_KLJtSFNNwYJE-dMtEymKU5pOksSk6FPhBRjvRAnAN00x08EKePq1bKkhj-vZkstVaDLzGr7Izn34Uzu1kX2RMQdf83cYRPunpw4wySJktVD8&sig=AOD64_1isHJNc0l7rSDmTVpPs23Yy8KecQ&q&adurl&ved=2ahUKEwj7weyDt7r9AhXK7zgGHUlGDeIQ0Qx6BAgBEAE"
     },
     {
-        "name": "Mariott Suittes",
-        "image": "../img/banner.jpg",
+        "name": "Marriott Suites",
+        "image": "./hotel-images/marriott-suites.jpg",
         "detailsLink": "https://www.marriott.com/en-us/hotels/pnqms-marriott-suites-pune/overview/"
     },
     {
         "name": "O Hotel Pune",
-        "image": "../img/anotherRoom.jpg",
+        "image": "./hotel-images/o-hotel-pune.jpg",
         "detailsLink": "https://www.ohotelsindia.com/pune/"
     }
 ]
