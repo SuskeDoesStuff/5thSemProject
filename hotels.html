@@ -128,7 +128,7 @@
                 const welcome = document.getElementById("welcome")
                 // Clear existing content
                 hotelsContainer.innerHTML = "";
-
+                welcome.appendChild(`<h1> Welcome to ${city}! </h1>`);
                 // Fetch hotel data from city-specific JSON file
                 fetch(`./hotels/${city}.json`)
                     .then(response => response.json())
@@ -155,9 +155,8 @@
                                     </div>
                                 </div>
                             `;
-                            hotelsContainer.appendChild(hotelElement);
                         });
-                        welcome.appendChild(`<h1> Welcome to ${city}! </h1>`);
+                        
                     })
                     .catch(error => console.error(`Error fetching ${city}.json:`, error));
             }
