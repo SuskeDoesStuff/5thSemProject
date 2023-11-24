@@ -1,8 +1,8 @@
 [
   {
       "name": "Renaissance Hotel",
-      "image": "./img/anotherRoom.jpg",
-      "detailsLink": "#",
+      "image": "./hotel-images/renaissance-hotel.avif",
+      "detailsLink": "https://www.marriott.com/en-us/hotels/amdbr-renaissance-ahmedabad-hotel/overview/",
       "alt": "Renaissance Hotel Image"
   },
   {
