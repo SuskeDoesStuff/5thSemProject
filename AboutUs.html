@@ -289,7 +289,7 @@
             acc[i].addEventListener("click", function () {
                 /* Toggle between adding and removing the "active" class,
                 to highlight the button that controls the panel */
-                for(j = 0; j < acc.length; j++){
+                for(var j = 0; j < acc.length; j++){
                     acc[j].classList.toggle("active");
                     oldPanel = acc[j].nextElementSibling;
                     oldPanel.style.display = "none";
