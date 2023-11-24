@@ -518,13 +518,14 @@ Contact Page
 /* Style the accordion panel. Note: hidden by default */
 .panel {
     padding: 0 18px;
-    background-color: #eee;
+    background-color: #f3f0f0;
     width: 80%;
     display: none;
     overflow: hidden;
     text-align: center; /* Center the text */
     border-radius: 10px; /* Added rounded corners for the panel */
     margin: auto; /* Center the panel */
+    margin-bottom: 10px;
 }
 
 .active + .panel {
