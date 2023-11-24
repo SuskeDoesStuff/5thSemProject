@@ -76,8 +76,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="shead">
-                            <h1>Welcome!</h1>
+                        <div id="welcome-container" class="shead">
+                            
                         </div>
                     </div>
                     <div id="hotels-container" class="all_rooms">
@@ -125,10 +125,15 @@
             // Function to update hotel content based on selected city
             function updateHotels(city) {
                 const hotelsContainer = document.getElementById("hotels-container");
+                const welcomeContainer = document.getElementById("welcome-container")
 
                 // Clear existing content
                 hotelsContainer.innerHTML = "";
-
+                welcomeContainer.innerHTML = "";
+                welcomeElement = document.createElement("h1");
+                welcomeElement.innerHTML = `Welcome to ${city}!`;
+                welcomeContainer.appendChild(welcomeElement)
+                
                 // Fetch hotel data from city-specific JSON file
                 fetch(`./hotels/${city}.json`)
                     .then(response => response.json())
@@ -160,6 +165,7 @@
                     })
                     .catch(error => console.error(`Error fetching ${city}.json:`, error));
             }
+            
 
             // Extract city from URL
             const urlParams = new URLSearchParams(window.location.search);
