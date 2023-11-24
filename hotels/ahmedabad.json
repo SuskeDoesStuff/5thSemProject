@@ -8,31 +8,31 @@
     {
         "name": "Novotel Ahmedabad",
         "image": "./hotel-images/novotel-ahmedabad.jpg",
-        "detailsLink": "#",
+        "detailsLink": "https://all.accor.com/hotel/8173/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps",
         "alt": "Novotel Ahmedabad Image"
     },
     {
         "name": "Lemon Tree Hotel",
         "image": "./hotel-images/lemon-tree-hotel.jpg",
-        "detailsLink": "#",
+        "detailsLink": "https://www.lemontreehotels.com/lemon-tree-hotel/ahmedabad/hotel-ahmedabad",
         "alt": "Lemon Tree Hotel Image"
     },
     {
         "name": "Fortune Park Hotel",
         "image": "./hotel-images/fortune-park-hotel.jpg",
-        "detailsLink": "#",
+        "detailsLink": "https://www.itchotels.com/in/en/fortunepark-ahmedabad",
         "alt": "Fortune Park Hotel Image"
     },
     {
         "name": "Hyatt Regency",
         "image": "./hotel-images/hyatt-regency.jpg",
-        "detailsLink": "#",
+        "detailsLink": "https://www.hyatt.com/hyatt-regency/en-US/amdhr-hyatt-regency-ahmedabad",
         "alt": "Hyatt Regency Image"
     },
     {
         "name": "Cambay Grand Ahmedabad",
         "image": "./hotel-images/cambay-grand-ahmedabad.jpg",
-        "detailsLink": "#",
+        "detailsLink": "https://www.cambayhotels.com/cambay-grand-ahmedabad.htm",
         "alt": "Cambay Grand Ahmedabad Image"
     }
   ]
