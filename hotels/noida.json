@@ -1,37 +1,38 @@
 [
     {
-        "name": "Hotel Park Ascent",
-        "image": "./hotel-images/hotel-park-ascent.jpg",
-        "detailsLink": "https://www.parkascenthotels.com/"
+      "name": "Hotel Park Ascent",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.parkascenthotels.com/"
     },
     {
-        "name": "Fortune",
-        "image": "./hotel-images/fortune.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/fortunesector27-noida"
+      "name": "Fortune",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/fortunesector27-noida"
     },
     {
-        "name": "The Gaurs Sarovar Portico",
-        "image": "./hotel-images/the-gaurs-sarovar-portico.jpg",
-        "detailsLink": "https://www.sarovarhotels.com/the-gaurs-sarovar-portico/"
+      "name": "The Gaurs Sarovar Portico",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.sarovarhotels.com/the-gaurs-sarovar-portico/"
     },
     {
-        "name": "Radisson's Park Inn",
-        "image": "./hotel-images/radissons-park-inn.jpg",
-        "detailsLink": "https://www.radissonhotels.com/en-us/hotels/radisson-noida"
+      "name": "Radisson's Park Inn",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.radissonhotels.com/en-us/hotels/radisson-noida"
     },
     {
-        "name": "Jaypee Greens",
-        "image": "./hotel-images/jaypee-greens.jpg",
-        "detailsLink": "https://www.jaypeehotels.com/hotel/jaypee-greens-golf-spa-resort-greater-noida"
+      "name": "Jaypee Greens",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.jaypeehotels.com/hotel/jaypee-greens-golf-spa-resort-greater-noida"
     },
     {
-        "name": "Sandal Suites",
-        "image": "./hotel-images/sandal-suites.jpg",
-        "detailsLink": "https://www.lemontreehotels.com/lemon-tree-hotel/noida/sandal-suites.aspx"
+      "name": "Sandal Suites",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.lemontreehotels.com/lemon-tree-hotel/noida/sandal-suites.aspx"
     },
     {
-        "name": "Crowne Plaza",
-        "image": "./hotel-images/crowne-plaza.jpg",
-        "detailsLink": "https://www.ihg.com/crowneplaza/hotels/us/en/delhi/delgn/hoteldetail"
+      "name": "Crowne Plaza",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.ihg.com/crowneplaza/hotels/us/en/delhi/delgn/hoteldetail"
     }
-]
+  ]
+  

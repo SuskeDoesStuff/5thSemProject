@@ -1,47 +1,47 @@
 [
   {
     "name": "ITC Gardenia",
-    "image": "./hotel-images/itc-gardenia.jpg",
+    "image": "./img/room.jpg",
     "detailsLink": "https://www.itchotels.com/in/en/itcgardenia-bengaluru"
   },
   {
     "name": "Hotel Royal Orchid",
-    "image": "./hotel-images/hotel-royal-orchid.jpg",
+    "image": "./img/anotherRoom.jpg",
     "detailsLink": "https://www.royalorchidhotels.com/hotel-royal-orchid-bangalore/overview"
   },
   {
     "name": "Radisson Blu Atria",
-    "image": "./hotel-images/radisson-blu-atria.jpg",
+    "image": "./img/familyRoom.jpg",
     "detailsLink": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-bengaluru-atria"
   },
   {
     "name": "ITC Gardenia",
-    "image": "./hotel-images/itc-gardenia.jpg",
+    "image": "./img/grandRoom.jpg",
     "detailsLink": "https://www.itchotels.com/in/en/itcgardenia-bengaluru"
   },
   {
     "name": "The Oberoi",
-    "image": "./hotel-images/the-oberoi.jpg",
+    "image": "./img/room.jpg",
     "detailsLink": "https://www.oberoihotels.com/hotels-in-bengaluru/"
   },
   {
     "name": "Hotel Vivanta",
-    "image": "./hotel-images/hotel-vivanta.jpg",
+    "image": "./img/anotherRoom.jpg",
     "detailsLink": "https://www.vivantahotels.com/en-in/vivanta-bengaluru-whitefield/"
   },
   {
     "name": "Taj Bengaluru",
-    "image": "./hotel-images/taj-bengaluru.jpg",
+    "image": "./img/familyRoom.jpg",
     "detailsLink": "https://www.theleela.com/the-leela-bhartiya-city-bengaluru"
   },
   {
     "name": "Leela Bhartiya City",
-    "image": "./hotel-images/leela-bhartiya-city.jpg",
+    "image": "./img/grandRoom.jpg",
     "detailsLink": "https://www.theleela.com/the-leela-bhartiya-city-bengaluru"
   },
   {
     "name": "Conrad Hotel",
-    "image": "./hotel-images/conrad-hotel.jpg",
+    "image": "./img/room.jpg",
     "detailsLink": "https://www.hilton.com/en/hotels/blrkrci-conrad-bengaluru/"
   }
 ]

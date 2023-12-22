@@ -1,37 +1,38 @@
 [
     {
-        "name": "ITC Grand Chola",
-        "image": "./hotel-images/itc-grand-chola.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/itcgrandchola-chennai"
+      "name": "ITC Grand Chola",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/itcgrandchola-chennai"
     },
     {
-        "name": "Novotel Chennai",
-        "image": "./hotel-images/novotel-chennai.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-coromandel-chennai/"
+      "name": "Novotel Chennai",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-coromandel-chennai/"
     },
     {
-        "name": "Taj Coromandel",
-        "image": "./hotel-images/taj-coromandel.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-coromandel-chennai/"
+      "name": "Taj Coromandel",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-coromandel-chennai/"
     },
     {
-        "name": "Wyndham Ramada Plaza",
-        "image": "./hotel-images/wyndham-ramada-plaza.jpg",
-        "detailsLink": "https://www.wyndhamhotels.com/ramada/chennai-india/ramada-plaza-chennai/overview"
+      "name": "Wyndham Ramada Plaza",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.wyndhamhotels.com/ramada/chennai-india/ramada-plaza-chennai/overview"
     },
     {
-        "name": "The Leela Palace",
-        "image": "./hotel-images/the-leela-palace.jpg",
-        "detailsLink": "https://www.theleela.com/the-leela-palace-chennai"
+      "name": "The Leela Palace",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.theleela.com/the-leela-palace-chennai"
     },
     {
-        "name": "Taj Connemara",
-        "image": "./hotel-images/taj-connemara.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-connemara-chennai/"
+      "name": "Taj Connemara",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-connemara-chennai/"
     },
     {
-        "name": "Hotel Green Park",
-        "image": "./hotel-images/hotel-green-park.jpg",
-        "detailsLink": "http://www.hotelgreenpark.com/chennai/"
+      "name": "Hotel Green Park",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "http://www.hotelgreenpark.com/chennai/"
     }
-]
+  ]
+  

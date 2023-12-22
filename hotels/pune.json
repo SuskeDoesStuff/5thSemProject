@@ -1,37 +1,38 @@
 [
     {
-        "name": "The Westin Pune",
-        "image": "./hotel-images/the-westin-pune.jpg",
-        "detailsLink": "https://www.marriott.com/en-us/hotels/pnqwi-the-westin-pune-koregaon-park/overview/"
+      "name": "The Westin Pune",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.marriott.com/en-us/hotels/pnqwi-the-westin-pune-koregaon-park/overview/"
     },
     {
-        "name": "Hotel Blue Diamond",
-        "image": "./hotel-images/hotel-blue-diamond.jpg",
-        "detailsLink": "https://www.seleqtionshotels.com/en-in/blue-diamond-pune/"
+      "name": "Hotel Blue Diamond",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.seleqtionshotels.com/en-in/blue-diamond-pune/"
     },
     {
-        "name": "Conrad Pune",
-        "image": "./hotel-images/conrad-pune.jpg",
-        "detailsLink": "https://www.conradpune.com/"
+      "name": "Conrad Pune",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.conradpune.com/"
     },
     {
-        "name": "The Ritz-Carlton",
-        "image": "./hotel-images/the-ritz-carlton.jpg",
-        "detailsLink": "https://www.ritzcarlton.com/en/hotels/india/pune"
+      "name": "The Ritz-Carlton",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.ritzcarlton.com/en/hotels/india/pune"
     },
     {
-        "name": "Hotel Hyatt Pune",
-        "image": "./hotel-images/hotel-hyatt-pune.jpg",
-        "detailsLink": "https://www.hyatt.com/en-US/hotel/india/hyatt-pune/pnqhy"
+      "name": "Hotel Hyatt Pune",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.hyatt.com/en-US/hotel/india/hyatt-pune/pnqhy"
     },
     {
-        "name": "Marriott Suites",
-        "image": "./hotel-images/marriott-suites.jpg",
-        "detailsLink": "https://www.marriott.com/en-us/hotels/pnqms-marriott-suites-pune/overview/"
+      "name": "Marriott Suites",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.marriott.com/en-us/hotels/pnqms-marriott-suites-pune/overview/"
     },
     {
-        "name": "O Hotel Pune",
-        "image": "./hotel-images/o-hotel-pune.jpg",
-        "detailsLink": "https://www.ohotelsindia.com/pune/"
+      "name": "O Hotel Pune",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.ohotelsindia.com/pune/"
     }
-]
+  ]
+  

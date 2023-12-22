@@ -1,37 +1,38 @@
 [
     {
-        "name": "Taj Bengal",
-        "image": "./hotel-images/taj-bengal.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-bengal-kolkata/"
+      "name": "Taj Bengal",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-bengal-kolkata/"
     },
     {
-        "name": "The Oberoi Grand",
-        "image": "./hotel-images/the-oberoi-grand.jpg",
-        "detailsLink": "https://www.oberoihotels.com/hotels-in-kolkata/"
+      "name": "The Oberoi Grand",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.oberoihotels.com/hotels-in-kolkata/"
     },
     {
-        "name": "ITC Sonar",
-        "image": "./hotel-images/itc-sonar.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/itcsonar-kolkata"
+      "name": "ITC Sonar",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/itcsonar-kolkata"
     },
     {
-        "name": "Hotel Kenilworth",
-        "image": "./hotel-images/hotel-kenilworth.jpg",
-        "detailsLink": "https://www.kenilworthhotels.com/russel-street-kolkata/"
+      "name": "Hotel Kenilworth",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.kenilworthhotels.com/russel-street-kolkata/"
     },
     {
-        "name": "Cygnett's Siamton Inn",
-        "image": "./hotel-images/cygnetts-siamton-inn.jpg",
-        "detailsLink": "https://www.cygnetthotels.com/siamton-inn-elect-kolkata/unit-accomodation"
+      "name": "Cygnett's Siamton Inn",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.cygnetthotels.com/siamton-inn-elect-kolkata/unit-accomodation"
     },
     {
-        "name": "Hotel Hindustan International",
-        "image": "./hotel-images/hotel-hindustan-international.jpg",
-        "detailsLink": "https://www.hhikolkata.com/"
+      "name": "Hotel Hindustan International",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.hhikolkata.com/"
     },
     {
-        "name": "The Peerless Inn",
-        "image": "./hotel-images/the-peerless-inn.jpg",
-        "detailsLink": "https://peerlesshotels.com/the-peerless-inn-kolkata/"
+      "name": "The Peerless Inn",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://peerlesshotels.com/the-peerless-inn-kolkata/"
     }
-]
+  ]
+  

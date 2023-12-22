@@ -1,42 +1,43 @@
 [
     {
-        "name": "The Oberoi RajVillas",
-        "image": "./hotel-images/the-oberoi-rajvillas.jpg",
-        "detailsLink": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=GMBlisting&utm_medium=organic"
+      "name": "The Oberoi RajVillas",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=GMBlisting&utm_medium=organic"
     },
     {
-        "name": "The Raj Palace",
-        "image": "./hotel-images/the-raj-palace.jpg",
-        "detailsLink": "https://www.rajpalace.com/"
+      "name": "The Raj Palace",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.rajpalace.com/"
     },
     {
-        "name": "Rambagh Palace",
-        "image": "./hotel-images/rambagh-palace.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/rambagh-palace-jaipur/"
+      "name": "Rambagh Palace",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/rambagh-palace-jaipur/"
     },
     {
-        "name": "Raj Mahal Palace",
-        "image": "./hotel-images/raj-mahal-palace.jpg",
-        "detailsLink": "https://www.raashotels.com/rajmahal/"
+      "name": "Raj Mahal Palace",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.raashotels.com/rajmahal/"
     },
     {
-        "name": "Umaid Bhawan",
-        "image": "./hotel-images/umaid-bhawan.jpg",
-        "detailsLink": "https://www.umaidbhawan.com/"
+      "name": "Umaid Bhawan",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.umaidbhawan.com/"
     },
     {
-        "name": "The Fern An Ecotel",
-        "image": "./hotel-images/the-fern-an-ecotel.jpg",
-        "detailsLink": "https://www.fernhotels.com/the-fern-jaipur"
+      "name": "The Fern An Ecotel",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.fernhotels.com/the-fern-jaipur"
     },
     {
-        "name": "The Fern Residency",
-        "image": "./hotel-images/the-fern-residency.jpg",
-        "detailsLink": "https://www.fernhotels.com/the-fern-residency-jaipur"
+      "name": "The Fern Residency",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.fernhotels.com/the-fern-residency-jaipur"
     },
     {
-        "name": "Sheraton's Four Points",
-        "image": "./hotel-images/sheratons-four-points.jpg",
-        "detailsLink": "https://www.marriott.com/en-us/hotels/jaifp-four-points-by-sheraton-jaipur-city-square/overview/"
+      "name": "Sheraton's Four Points",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.marriott.com/en-us/hotels/jaifp-four-points-by-sheraton-jaipur-city-square/overview/"
     }
-]
+  ]
+  

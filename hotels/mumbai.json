@@ -1,47 +1,48 @@
 [
     {
-        "name": "The Taj Mahal Palace",
-        "image": "./hotel-images/the-taj-mahal-palace.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
+      "name": "The Taj Mahal Palace",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
     },
     {
-        "name": "Taj Lands End",
-        "image": "./hotel-images/taj-lands-end.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-lands-end-mumbai/"
+      "name": "Taj Lands End",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-lands-end-mumbai/"
     },
     {
-        "name": "ITC Maratha",
-        "image": "./hotel-images/itc-maratha.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/itcmaratha-mumbai"
+      "name": "ITC Maratha",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/itcmaratha-mumbai"
     },
     {
-        "name": "The Oberoi",
-        "image": "./hotel-images/the-oberoi.jpg",
-        "detailsLink": "https://www.oberoihotels.com/hotels-in-mumbai/"
+      "name": "The Oberoi",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.oberoihotels.com/hotels-in-mumbai/"
     },
     {
-        "name": "ITC Grand Central",
-        "image": "./hotel-images/itc-grand-central.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/itcgrandcentral-mumbai"
+      "name": "ITC Grand Central",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/itcgrandcentral-mumbai"
     },
     {
-        "name": "Taj Santacruz",
-        "image": "./hotel-images/taj-santacruz.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-santacruz-mumbai/"
+      "name": "Taj Santacruz",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-santacruz-mumbai/"
     },
     {
-        "name": "Hotel Grand Hyatt",
-        "image": "./hotel-images/hotel-grand-hyatt.jpg",
-        "detailsLink": "https://www.hyatt.com/en-US/hotel/india/grand-hyatt-mumbai/mumgh"
+      "name": "Hotel Grand Hyatt",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.hyatt.com/en-US/hotel/india/grand-hyatt-mumbai/mumgh"
     },
     {
-        "name": "Hotel Sahara Star",
-        "image": "./hotel-images/hotel-sahara-star.jpg",
-        "detailsLink": "https://www.saharastar.com/"
+      "name": "Hotel Sahara Star",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.saharastar.com/"
     },
     {
-        "name": "Hotel Hilton",
-        "image": "./hotel-images/hotel-hilton.jpg",
-        "detailsLink": "https://www.hilton.com/en/hotels/bomaphi-hilton-mumbai-international-airport/"
+      "name": "Hotel Hilton",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.hilton.com/en/hotels/bomaphi-hilton-mumbai-international-airport/"
     }
-]
+  ]
+  

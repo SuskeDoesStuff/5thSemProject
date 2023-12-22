@@ -1,47 +1,48 @@
 [
     {
-        "name": "The Lalit",
-        "image": "./hotel-images/the-lalit.jpg",
-        "detailsLink": "https://www.thelalit.com/the-lalit-delhi/"
+      "name": "The Lalit",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.thelalit.com/the-lalit-delhi/"
     },
     {
-        "name": "Taj Mahal Hotel",
-        "image": "./hotel-images/taj-mahal-hotel.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-mahal-new-delhi/"
+      "name": "Taj Mahal Hotel",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-mahal-new-delhi/"
     },
     {
-        "name": "Taj Palace",
-        "image": "./hotel-images/taj-palace.jpg",
-        "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-palace-new-delhi/"
+      "name": "Taj Palace",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://www.tajhotels.com/en-in/taj/taj-palace-new-delhi/"
     },
     {
-        "name": "ITC Maurya",
-        "image": "./hotel-images/itc-maurya.jpg",
-        "detailsLink": "https://www.itchotels.com/in/en/itcmaurya-new-delhi"
+      "name": "ITC Maurya",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.itchotels.com/in/en/itcmaurya-new-delhi"
     },
     {
-        "name": "The Oberoi",
-        "image": "./hotel-images/the-oberoi.jpg",
-        "detailsLink": "https://www.oberoihotels.com/hotels-in-delhi/"
+      "name": "The Oberoi",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.oberoihotels.com/hotels-in-delhi/"
     },
     {
-        "name": "Hyatt Regency",
-        "image": "./hotel-images/hyatt-regency.jpg",
-        "detailsLink": "https://www.hyatt.com/destinations/delhi"
+      "name": "Hyatt Regency",
+      "image": "./img/anotherRoom.jpg",
+      "detailsLink": "https://www.hyatt.com/destinations/delhi"
     },
     {
-        "name": "The Imperial",
-        "image": "./hotel-images/the-imperial.jpg",
-        "detailsLink": "https://theimperialindia.com/"
+      "name": "The Imperial",
+      "image": "./img/familyRoom.jpg",
+      "detailsLink": "https://theimperialindia.com/"
     },
     {
-        "name": "The Lodhi",
-        "image": "./hotel-images/the-lodhi.jpg",
-        "detailsLink": "https://www.thelodhi.com/"
+      "name": "The Lodhi",
+      "image": "./img/grandRoom.jpg",
+      "detailsLink": "https://www.thelodhi.com/"
     },
     {
-        "name": "The Leela Palace",
-        "image": "./hotel-images/the-leela-palace.jpg",
-        "detailsLink": "https://www.theleela.com/the-leela-palace-new-delhi"
+      "name": "The Leela Palace",
+      "image": "./img/room.jpg",
+      "detailsLink": "https://www.theleela.com/the-leela-palace-new-delhi"
     }
-]
+  ]
+  
